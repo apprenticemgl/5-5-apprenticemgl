@@ -3,3 +3,4 @@ vendor
 composer.lock
 5-3-apprenticemgl
 5-4-apprenticemgl
+uploads/*
